@@ -1,0 +1,4 @@
+#Tue May 26 15:35:22 EEST 2020
+base.0=Z\:\\Diblo\\Temp\\gradleOut\\launcher\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
